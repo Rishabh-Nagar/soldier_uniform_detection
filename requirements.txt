@@ -1,0 +1,12 @@
+matplotlib
+opencv-python
+pyyaml
+scipy
+tqdm
+psutil
+py-cpuinfo
+thop
+pandas
+seaborn
+notebook
+albumentations

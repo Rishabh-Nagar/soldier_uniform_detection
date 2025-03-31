@@ -1,0 +1,4 @@
+train: ../soldiers_dataset/images/train
+val: ../soldiers_dataset/images/val
+nc: 3
+names: ['bsf', 'crpf', 'jk_police']
